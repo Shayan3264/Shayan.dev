@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>کتابخانه آموزشی شایان</title>
+  <title>سایت شخصی شایان</title>
   <meta name="description" content="چهار کتاب آموزشی کامل HTML, CSS, Python, JavaScript نوشته شایان – از مقدماتی تا حرفه‌ای با مثال و تمرین" />
   <style>
     /* ====== پایه و دارک‌تم ====== */
